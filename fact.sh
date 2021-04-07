@@ -8,5 +8,5 @@ do
 	num=` expr $num - 1 `
 done
 echo " fact = $fact "
-
+echo " fact = $fact"
 
